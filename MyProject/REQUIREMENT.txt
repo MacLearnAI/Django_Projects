@@ -1,0 +1,10 @@
+django
+shortcuts 
+render
+http 
+HttpResponse
+pickle
+nltk
+tokenize 
+word_tokenize
+requests
